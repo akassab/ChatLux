@@ -19,7 +19,7 @@ Typical social media functionality
 - Unique routes for individual posts
 
 ## The Details
-Register form validation
+- Register form validation
 <img src="interface-validation.PNG" width="25%">
 Login form validation.
 - Also checks if account even exists in the system.
