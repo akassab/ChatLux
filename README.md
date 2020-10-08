@@ -25,7 +25,7 @@ Typical social media functionality
 <img src="interface-login-validation.PNG" width="50%">
 - Only delete your own posts.
 - With tool-tips
-<img src="interface-delete.png" width="50%">
+<img src="interface-delete.png" width="25%">
 - Individual pages for comments
 <img src="interface-comment.PNG" width="50%">
 
