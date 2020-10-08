@@ -7,10 +7,10 @@ Here I created a secure social media web application using:
 - GraphQL for the simple and scalable API (back-end)
 - React + Semantic UI for the beutiful dyanmic look
 - Mongodb for a flexible database
+<img src="interface-whole.PNG" width="100%">
 
 
-
-## Functions
+## Quick Functions
 Typical social media functionality
 - Register, Login (with input validation)
 - Like, Unlike, Like-count
@@ -18,7 +18,17 @@ Typical social media functionality
 - Post, Delete-post
 - Unique routes for individual posts
 
-<img src="Interface.PNG" width="50%">
+## The Details
+Register form validation
+<img src="interface-validation.PNG" width="50%">
+Login form validation.
+- Also checks if account even exists in the system.
+<img src="interface-login-validation.PNG" width="50%">
+Only delete your own posts.
+- With tool-tips
+<img src="interface-delete.PNG" width="50%">
+Individual pages for comments
+<img src="interface-comment.PNG" width="50%">
 
 ## Language
 - HTML, CSS, Javascript
