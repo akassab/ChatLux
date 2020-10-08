@@ -11,34 +11,31 @@ Here I created a secure social media web application using:
 
 
 ## Quick Functions
-Typical social media functionality
-- Register, Login (with input validation)
-- Like, Unlike, Like-count
-- Comment, Comment-count
-- Post, Delete-post
-- Unique routes for individual posts
+- Select an option
+    - Select and Eraser:
+        - Disables all options except eraser and colour
+            - Eraser remains disabled untill a shape is selected.
+            - Once shape is selected, eraser is enabled and can be used to delete a shape.
+    - Rectangle, Circle, Line
+        -Rectangle start with top left or bottom right corner end with bottom right or top left corner.
+        - Circle start at center point, end at desired radius.
+        - Line, start at point 1, end at point 2
+- Addition functionality:
+    - Rotation saves images
+    - Select shape to get a colour
+    - While selected, select colour to change colour of selected shape.
+
 
 ## The Details
-- Register form validation
-<img src="interface-validation.PNG" width="50%">
-- Also checks if account even exists in the system.
-<img src="interface-login-validation.PNG" width="50%">
-- Only delete your own posts.
-- With tool-tips
-<img src="interface-delete.png" width="25%">
-- Individual pages for comments
-<img src="interface-comment.PNG" width="50%">
+- Square, rectangle, line
+<img src="shapes.gif" width="50%">
+- Colours, select, erase
+<img src="selection.gif" width="50%">
 
 ## Language
-- HTML, CSS, Javascript
-- GQL
+- Java
+- XML
 
 ## Tools/Libraries
-- React + Semantic UI
-- Node.js + Express + GraphQL
-- MongoDB
-
-## Deployment
-- Front-end: Netlify
-- Back-end API: Heroku
+- Android Studio
 
