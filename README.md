@@ -21,7 +21,6 @@ Typical social media functionality
 ## The Details
 - Register form validation
 <img src="interface-validation.PNG" width="50%">
-- Login form validation.
 - Also checks if account even exists in the system.
 <img src="interface-login-validation.PNG" width="50%">
 - Only delete your own posts.
