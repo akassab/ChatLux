@@ -7,7 +7,7 @@ Here I created a secure social media web application using:
 - GraphQL for the simple and scalable API (back-end)
 - React + Semantic UI for the beutiful dyanmic look
 - Mongodb for a flexible database
-<img src="interface-whole.PNG" width="100%">
+<img src="interface-whole.PNG" width="90%">
 
 
 ## Quick Functions
