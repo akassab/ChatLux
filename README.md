@@ -2,18 +2,34 @@
 
 <a href="https://ak-social-media.netlify.app/">Live Demo</a>
 
-This repo contains the code I worked on when working at the Roy Group - University of Waterloo | 2015.
-Allows new members to install libraries, and switch between python versions on one or multiple GPUs connected to the server.
+Here I created a secure social media web application using:
+- Node.js for speed (back-end)
+- GraphQL for the simple and scalable API (back-end)
+- React + Semantic UI for the beutiful dyanmic look
+- Mongodb for a flexible database
+
+
 
 ## Functions
-This script will install either one or both python2 and python3 onto a 'GPU containing' CPU with modules: scipy, numpy, pycuda, scikit-cuda.
-- Prevents re-downloading of libraries using file existance checks.
-- Creates/appends bash code to .bashrc / .bash_profile and aliases.
-- Specify which GPUS to install on.
-- Specify Cuda version to install.
-- Specify Python version to install.
+Typical social media functionality
+- Register, Login (with input validation)
+- Like, Unlike, Like-count
+- Comment, Comment-count
+- Post, Delete-post
+- Unique routes for individual posts
 
 <img src="Interface.PNG" width="50%">
 
 ## Language
-- Bash
+- HTML, CSS, Javascript
+- GQL
+
+## Tools/Libraries
+- React + Semantic UI
+- Node.js + Express + GraphQL
+- MongoDB
+
+## Deployment
+- Front-end: Netlify
+- Back-end API: Heroku
+
