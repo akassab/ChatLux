@@ -1,4 +1,4 @@
-# Social Media Web Application
+# ChatLux
 
 <a href="https://ak-social-media.netlify.app/">Live Demo</a>
 
