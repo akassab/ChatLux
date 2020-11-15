@@ -29,7 +29,7 @@ Here I created a secure social media web application using:
 <img src="interface-comment.PNG" width="50%">
 
 ## Language
-- HTML, CSS, Javascript
+- HTML, CSS, JavaScript
 - GQL
 
 ## Tools/Libraries
